@@ -1,8 +1,4 @@
-/**
- * A universal system for building console menus for JetBrains Academy projects.
- *
- * @author Jegors Čemisovs
- */
+
 
 import java.util.EnumMap;
 import java.util.LinkedHashMap;
